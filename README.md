@@ -1,10 +1,8 @@
-[Bonafind](https://bonafind.netlify.com/static/media/logo.99726a63.png 'Bonafind')
-
 # Bonafind.biz
 
 Bonafind is an application that will allow users to find and review local businesses and view popular businesses in their area.
 
-## Getting Started
+### Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
