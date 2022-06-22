@@ -3,8 +3,6 @@
 Bonafind is an application that will allow users to find and review local businesses and view popular businesses in their area.
 
 ### Getting Started
-![itchy](https://user-images.githubusercontent.com/34618112/166972523-7593418d-e7f7-4a0b-8e12-cf0df48330ab.jpg)
-
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
